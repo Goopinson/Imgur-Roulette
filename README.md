@@ -3,7 +3,7 @@ Grabs randomly generated Imgur Links and displays them to the user.
 
 **PROJECT TITLE:**
 
-imgurBox
+Imgur Roulette
 
 **PURPOSE OF PROJECT:** 
 
@@ -17,3 +17,7 @@ Goopinson
 
 Run the Jar and use the two buttons.
 Share the repository!
+
+**VERSION**
+
+1.0 | First & Final

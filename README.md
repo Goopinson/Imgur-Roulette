@@ -10,6 +10,7 @@ imgurBox
 Uses random string generators to form imgur links. The images are shown on a JFrame and presented to the user. Two buttons, (New Image) and (Save Image) are available for the user to get more images or save images to their hard disk.
 
 **AUTHORS:**
+
 Goopinson
 
 **USER INSTRUCTIONS:**

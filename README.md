@@ -1,5 +1,6 @@
 # Imgur Roulette
 Grabs randomly generated Imgur Links and displays them to the user.
+
 NSFW Warning: Many images posted on Imgur are NSFW. This cannot be controlled by the program in it's current state.
 
 **NOTE**

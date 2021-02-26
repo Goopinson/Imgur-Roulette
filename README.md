@@ -1,4 +1,4 @@
-# imgurBox
+# Imgur Roulette
 Grabs randomly generated Imgur Links and displays them to the user.
 
 **PROJECT TITLE:**

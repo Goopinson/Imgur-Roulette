@@ -2,6 +2,7 @@
 Grabs randomly generated Imgur Links and displays them to the user.
 
 PROJECT TITLE: 
+
 imgurBox
 
 PURPOSE OF PROJECT: 
@@ -12,5 +13,6 @@ AUTHORS:
 Goopinson
 
 USER INSTRUCTIONS:
+
 Run the Jar and use the two buttons.
 Share the repository!

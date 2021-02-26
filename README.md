@@ -3,10 +3,10 @@ Grabs randomly generated Imgur Links and displays them to the user.
 
 
 **NOTE**
-
 I believe this requires JRE / JDK 15 which can be found here:
 
 https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+
 https://www.dropbox.com/s/8haigg7zohe4all/jdk-15.0.2_windows-x64_bin.exe?dl=0
 
 **PROJECT TITLE:**

@@ -26,7 +26,7 @@ Goopinson
 
 **USER INSTRUCTIONS:**
 
-Run the Jar and use the two buttons.
+Run the Jar and use the three buttons.
 Share the repository!
 
 **VERSION**
